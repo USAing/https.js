@@ -1,4 +1,4 @@
-function https(ARGUMENTS) {
+module.exports = async function https(ARGUMENTS) {
   var ARG ={}, res;
   var DefaultArg = {
     ASYNC : ["[object Boolean]", true],
