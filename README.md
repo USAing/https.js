@@ -1,12 +1,12 @@
 # https.js
 
-[![codecov](https://badging.vercel.app/codecov/coverage/gh/yakeing/https.js?icon=codecov&branch=main)](https://codecov.io/gh/yakeing/https.js)
-[![TAG](https://badging.vercel.app/github/tag/yakeing/https.js?icon=github)](../../releases)
-[![NPM](https://badging.vercel.app/npm/version/https.js?icon=npm)](https://www.npmjs.com/package/https.js)
+[![codecov](https://badge.eu.org/codecov/coverage/gh/yakeing/https.js?icon=codecov&branch=main)](https://codecov.io/gh/yakeing/https.js)
+[![TAG](https://badge.eu.org/github/tag/yakeing/https.js?icon=github)](../../releases)
+[![NPM](https://badge.eu.org/npm/version/https.js?icon=npm)](https://www.npmjs.com/package/https.js)
 
-[![Package](https://badging.vercel.app/npm/package/https.js)](https://www.npmjs.com/package/https.js)
+[![Package](https://badge.eu.org/npm/package/https.js)](https://www.npmjs.com/package/https.js)
 
-[![codecov-totals](https://badging.vercel.app/codecov/totals/gh/yakeing/https.js)](https://codecov.io/gh/yakeing/https.js)
+[![codecov-totals](https://badge.eu.org/codecov/totals/gh/yakeing/https.js)](https://codecov.io/gh/yakeing/https.js)
 
 This is a pure JavaScript small program, does not need third-party software support
 
