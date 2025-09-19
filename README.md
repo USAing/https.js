@@ -1,12 +1,10 @@
 # https.js
 
-[![codecov](https://badge.eu.org/codecov/coverage/gh/yakeing/https.js?icon=codecov&branch=main)](https://codecov.io/gh/yakeing/https.js)
-[![TAG](https://badge.eu.org/github/tag/yakeing/https.js?icon=github)](../../releases)
+[![codecov](https://badge.eu.org/codecov/gh/USAing/https.js?icon=codecov&branch=main)](https://codecov.io/gh/USAing/https.js)
+[![TAG](https://badge.eu.org/github/tag/USAing/https.js?icon=github)](../../releases)
 [![NPM](https://badge.eu.org/npm/version/https.js?icon=npm)](https://www.npmjs.com/package/https.js)
 
 [![Package](https://badge.eu.org/npm/package/https.js)](https://www.npmjs.com/package/https.js)
-
-[![codecov-totals](https://badge.eu.org/codecov/totals/gh/yakeing/https.js)](https://codecov.io/gh/yakeing/https.js)
 
 This is a pure JavaScript small program, does not need third-party software support
 
@@ -39,12 +37,7 @@ https(ARGUMENTS);
 ```
 If you need to learn more, go to [more examples](https://https.js.org/pages/Example.html).
 
-## Author
-
-weibo: [yakeing](https://weibo.com/yakeing)
-
-twitter: [yakeing](https://twitter.com/yakeing)
 
 ## License
 
-[![MPL-2.0](https://badging.vercel.app/static/license/555/MPL-2.0/FE7D37?icon=github)](LICENSE)
+[![MPL-2.0](https://badge.eu.org/static/license/555/MPL-2.0/FE7D37?icon=github)](LICENSE)
