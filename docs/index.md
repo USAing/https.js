@@ -4,13 +4,11 @@ layout: default
 
 # https.js
 
-[![codecov](https://codecov.io/gh/yakeing/https.js/branch/master/graph/badge.svg)](https://codecov.io/gh/yakeing/https.js)
-[![TAG](https://img.shields.io/github/v/tag/yakeing/https.js?color=28a745&logo=github)](https://github.com/yakeing/https.js/releases)
-[![NPM](https://img.shields.io/npm/v/https.js?color=CB3837&logo=NPM)](https://www.npmjs.com/package/https.js)
+[![codecov](https://badge.eu.org/static/codecov/555/95/4c1?icon=codecov)](https://codecov.io/gh/USAing/https.js)
+[![TAG](https://badge.eu.org/github/tag/USAing/https.js?icon=github)](../../releases)
+[![NPM](https://badge.eu.org/npm/version/https.js?icon=npm)](https://www.npmjs.com/package/https.js)
 
-[![Package](https://badging.vercel.app/npm/package/https.js)](https://www.npmjs.com/package/https.js)
-
-[![codecov-totals](https://badging.vercel.app/codecov/totals/gh/yakeing/https.js)](https://codecov.io/gh/yakeing/https.js)
+[![Package](https://badge.eu.org/npm/package/https.js)](https://www.npmjs.com/package/https.js)
 
 This is a pure JavaScript small program, does not need third-party software support
 
@@ -32,7 +30,7 @@ npm i https.js
 ```javascript
 var url = "https://example.com";
 var res_function = function(res, status) {
-  if( status != 200){ //ok
+  if( status == 200){ //ok
   	var responseText = JSON.parse(res);
   	// responseText
   }
@@ -41,15 +39,8 @@ var res_function = function(res, status) {
 var ARGUMENTS = {URL:url, RES_FUNCTION:res_function, HEADER:{'Content-type':'application/json;charset=UTF-8'}};
 https(ARGUMENTS);
 ```
-If you need to learn more, go to [more examples](/pages/Example.html).
-
-
-## Author
-
-weibo: [yakeing](https://weibo.com/yakeing)
-
-twitter: [yakeing](https://twitter.com/yakeing)
+If you need to learn more, go to [more examples](https://https.js.org/pages/Example.html).
 
 ## License
 
-[![MPL-2.0](https://badging.vercel.app/static/license/555/MPL-2.0/FE7D37?icon=github)](https://github.com/yakeing/https.js/blob/main/LICENSE)
+[![MPL-2.0](https://badge.eu.org/static/license/555/MPL-2.0/FE7D37?icon=github)](LICENSE)
