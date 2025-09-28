@@ -1,6 +1,6 @@
 # https.js
 
-[![codecov](https://badge.eu.org/codecov/gh/USAing/https.js?icon=codecov&branch=main)](https://codecov.io/gh/USAing/https.js)
+[![codecov](https://badge.eu.org/static/codecov/555/95/4c1?icon=codecov)](https://codecov.io/gh/USAing/https.js)
 [![TAG](https://badge.eu.org/github/tag/USAing/https.js?icon=github)](../../releases)
 [![NPM](https://badge.eu.org/npm/version/https.js?icon=npm)](https://www.npmjs.com/package/https.js)
 
@@ -36,7 +36,6 @@ var ARGUMENTS = {URL:url, RES_FUNCTION:res_function, HEADER:{'Content-type':'app
 https(ARGUMENTS);
 ```
 If you need to learn more, go to [more examples](https://https.js.org/pages/Example.html).
-
 
 ## License
 
